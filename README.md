@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joseph78888
-- 👀 I’m interested in python and flutter 
-- 🌱 I’m currently learning python now 
-- 💞️ I’m looking to collaborate on python 
+- 👀 I’m interested in flutter 
+- 🌱 I’m currently learning flutter now 
+- 💞️ I’m looking to collaborate on flutter 
 - 📫 How to reach me yousifkhalid544@gmail.com 
 
 <!---
