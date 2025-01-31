@@ -35,7 +35,8 @@ Welcome to my GitHub profile! I'm a **junior Flutter developer** passionate abou
 ## 📂 Projects
 
 ### 🚧 Work in Progress:
-- **"Insan Khair Charity App"**: A platform for managing and tracking charitable initiatives, built using Flutter.
+- **"Sudan Tourist App "**.
+  No information for now 
 - **"Sudan Nuts E-Commerce App"**: An intuitive app for selling premium imported nuts.
 
 ---
@@ -51,7 +52,7 @@ Welcome to my GitHub profile! I'm a **junior Flutter developer** passionate abou
 ## 📬 Contact Me
 
 - **LinkedIn:** [Yousif Khalid](https://www.linkedin.com/in/yousif-khalid-68988b1ba)
-- **Email:** yousifkhalid544@example.com
+- **Email:** yousifkhalid544@gmail.com
 
 ---
 
